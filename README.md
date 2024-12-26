@@ -41,10 +41,9 @@ Open the application in browser:
 http://localhost:5173
 
 ```
+## Project Overview
 
-## Project Demo Video
-
-<video src="public/output/demo.mp4" controls width="600"></video>
+[Download and watch the video](public/output/demo.mp4)
 
 ## Project Structure
 
