@@ -78,6 +78,15 @@ codeant-ai-assignment/
 │   └── vite.config.js
 └── package.json
 ```
+## Tech Stack
+
+- **Frontend Framework**: React.Js
+- **Routing**: React Router DOM
+- **Styling**: 
+  - Tailwind CSS
+  - Radix UI Components
+- **Build Tool**: Vite
+- **API**: Github API
 
 ## 📷 Application Screenshots
 
