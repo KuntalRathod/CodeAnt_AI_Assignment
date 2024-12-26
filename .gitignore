@@ -41,5 +41,4 @@ Thumbs.db
 # Debug files
 debug/
 
-# npm lockfile
-package-lock.json
+
