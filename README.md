@@ -44,7 +44,7 @@ http://localhost:5173
 
 ## Project Demo Video
 
-
+<video src="public/output/demo.mp4" controls width="600"></video>
 
 ## Project Structure
 
