@@ -1,6 +1,14 @@
 # CodeAnt AI - Assignment
 
-**## Run Locally**
+## Live Link 
+
+```bash
+
+https://code-ant-ai-assignment-mu.vercel.app
+
+```
+
+## Run Locally
 
 Clone the project
 
@@ -34,7 +42,7 @@ npm run dev
 
 ```
 
-Open the application in browser:
+Open this below url in your browser:
 
 ```bash
 
